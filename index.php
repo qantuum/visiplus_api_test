@@ -110,7 +110,7 @@ https://stackoverflow.com/questions/9802788/call-a-rest-api-in-php
 							<li class="list-group-item"><strong>Temps passé à essayer d'obtenir des éléments de l'API quand même :</strong> 45 minutes sur 1h. voir lien <a href='./test/php'>test</a></li>
 						</ul>
 						<br />
-						<h1 class="text-center h1 text-success">Retrouvez un travail effectué sur PHP en POO en liaison avec une base de données phpmyaadmin, par Marvin Wortman, au lien : <a href="https://github.com/qantuum/sd3-project">sd3-project</a></h1>
+						<h1 class="text-center h1 text-success">Retrouvez un travail effectué sur PHP en POO en liaison avec une base de données phpmyaadmin, par Marvin Wortman, au lien : <a href="https://github.com/qantuum/sd3-project">sd3-project</a>. Ce projet est hébergé sous github à l'adresse <a href="https://github.com/qantuum/visiplus_api_test/"> visiplus_api_test</a>. </h1>
 					</div>
 				</div>
 			</div>
